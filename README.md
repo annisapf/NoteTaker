@@ -29,13 +29,13 @@ Since this app is not able to deploy our server side code on GitHub pages, Note 
     
 ## Table of Contents 
 
-* [User Story](#userstory)
+* [User Story](#user)
 
-* [Business Context](#businesscontext)
+* [Business Context](#business)
 
-* [Acceptance Criteria](#acceptancecriteria)
+* [Acceptance Criteria](#acceptance)
 
-* [Demo Video](#demovideo)
+* [Demo Video](#demo)
 
 * [Screen Shots](#screenshots)
     

@@ -13,6 +13,10 @@ module.exports = function (app) {
     //Create new notes
     app.post("/api/notes", function (req, res) {
         var newnote = req.body;
+        //Generate unique id
+        var nowdate = new Date();
+        var thismoment = nowdate.getTime();
+        console.log(thismoment);
 
         db.push(newnote);
 

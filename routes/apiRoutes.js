@@ -48,6 +48,8 @@ module.exports = function (app) {
             }
 
         }
+
+        res.send(db);
         console.log(db);
 
     });

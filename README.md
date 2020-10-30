@@ -12,7 +12,7 @@
 
   * GET `/notes` - Should return the `notes.html` file.
 
-  * GET `*` - Should return the `index.html` file
+  * GET `/index` - Should return the `index.html` file
 
 * The application should have a `db.json` file on the backend that will be used to store and retrieve notes using the `fs` module.
 
@@ -69,19 +69,18 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Demo Video
 
-Node App.js
 
 
-Run Testing    
 
 
 ## Screenshots
 
 index.tml
+![Note-Taker (1)](https://user-images.githubusercontent.com/7066137/97694602-f2a35700-1af6-11eb-8ee2-c2132a7e9bbd.png)
+
 
 notes.html 
-
-npm run test
+![Note-Taker](https://user-images.githubusercontent.com/7066137/97694494-c25bb880-1af6-11eb-9110-4a9710e175bf.png)
 
    
 ## Installation

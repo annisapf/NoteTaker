@@ -69,7 +69,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Demo Video
 
-
+![Demo Note Taker](https://j.gifs.com/RO9Ljq.gif)
 
 
 
@@ -115,13 +115,12 @@ License is MIT standard license.
 It is an open project and everyone can contribute - please send and email requesting to be added as a contributor
 
     
-## Tests
-    
-To run tests, run the following command:
-    
-```
-npm run test
-```
+
+### Link to the App
+<a href="http://dry-inlet-27394.herokuapp.com/">The URLs of the deployed applications in Heroku</a><hr>
+
+<a href="http://notes.annisapurbandari.com">The URLs of the deployed applications in Annisa Notes Website</a><hr>
+
     
 ## Questions
     
